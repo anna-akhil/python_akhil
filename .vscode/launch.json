@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/python/python_akhil/Preprocessor",
-      "program": "d:/python/python_akhil/Preprocessor/build/Debug/outDebug",
+      "cwd": "d:/python/python_akhil/Automation/Gtest/Script",
+      "program": "d:/python/python_akhil/Automation/Gtest/Script/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
